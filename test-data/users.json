@@ -1,0 +1,39 @@
+{
+  "validUser": {
+    "name": "Tosin Williams",
+    "job": "QA Automation Engineer"
+  },
+
+  "updatedUser": {
+    "name": "Tosin Updated",
+    "job": "Senior QA Engineer"
+  },
+
+  "patchUser": {
+    "name": "Tosin Patched"
+  },
+
+  "validLogin": {
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+  },
+
+  "validRegistration": {
+    "email": "sydney@fife",
+    "password": "pistol"
+  },
+
+  "invalidLogin": {
+    "email": "eve.holt@reqres.in"
+  },
+
+  "invalidRegistration": {
+    "email": "sydney@fife"
+  },
+
+  "userIds": {
+    "valid": 2,
+    "anotherValid": 3,
+    "invalid": 9999
+  }
+}

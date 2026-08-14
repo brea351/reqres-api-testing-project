@@ -1,0 +1,27 @@
+{
+  "name": "reqres-api-testing-project",
+  "version": "1.0.0",
+  "description": "Professional API automation testing project using Playwright and JavaScript",
+  "type": "module",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:report": "playwright show-report"
+  },
+  "keywords": [
+    "playwright",
+    "api-testing",
+    "reqres",
+    "automation-testing",
+    "qa"
+  ],
+  "author": "Tosin A. Williams",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
