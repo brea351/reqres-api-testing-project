@@ -176,7 +176,7 @@ reqres-api-testing-project/
 
 Clone the repository:
 
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/brea351/reqres-api-testing-project.git>
 
 Navigate into the project:
 
